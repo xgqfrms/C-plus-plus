@@ -1,0 +1,36 @@
+{
+  "C language Template": {
+      "prefix": "ct",
+      "body": [
+          "",
+          "/**",
+          " * ",
+          " * @author xgqfrms",
+          " * @license MIT",
+          " * @copyright xgqfrms",
+          " * @created 2020-07-0$1",
+          " * @modified ",
+          " * ",
+          " * @description $2",
+          " * @difficulty Easy Medium Hard",
+          " * @complexity O(n)",
+          " * @augments ",
+          " * @example ",
+          " * @link ",
+          " * @solutions ",
+          " * ",
+          " */",
+          "",
+          "#include <stdio.h>",
+          "",
+          "int main() {",
+          "  printf(\"Hello, World!\\n\");",
+          "  // do something...",
+          "  return 0;",
+          "}",
+          "",
+          ""
+      ],
+      "description": "C language Template & code snippets!"
+  }
+}
