@@ -2,7 +2,8 @@
 
 PersonClass::PersonClass()
 {
-   //ctor
+  // empty constructor
+  // 空构造函数
 }
 
 
